@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background-color: wheat;
+}
+footer{
+background-color:wheat;
+text-align: center;
+
+
+
+}
+header{
+justify-content: space-around;
+text-align: center;
+}
+ nav a{
+
+background-color: rgb(102, 91, 29);
+color: white;
+
+ }
+ nav{
+text-align: center;
+
+ }
+ main{
+     text-align:center;
+ }
+ main img {
+height: 50%;
+width: 45%;
+border-radius: 15%;
+    
+ }
+
+
+
+
+
+
+
+
+
+
+
